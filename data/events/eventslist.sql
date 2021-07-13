@@ -1,0 +1,5 @@
+SELECT [Id]
+            ,[Name]
+            ,[Description]
+            ,[Discriminator]
+FROM  [dbo].[AppRoles]
