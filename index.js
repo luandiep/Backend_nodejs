@@ -15,6 +15,7 @@ app.use('/api', eventRoutes.routes);
 
 
 
+
 app.listen(config.port, () => {
   console.log('app listening on url http://localhost:' + config.port )
 });
